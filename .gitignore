@@ -1,0 +1,6 @@
+# ignore the following files
+
+# vscode files and others
+.vscode
+.Dockerfile
+.requirements.txt

@@ -1,0 +1,5 @@
+numpy
+aiortc
+opencv-python
+av
+typing 
