@@ -1,6 +1,6 @@
-#Nimble Programming Challenge
+#Hackathon Programming Challenge
 
-* This hackathon challenge is exciting and  interesting and there are a lot many things to learn. It is to send a video stream between server and client using aiortc library of TCPsocketSignalling.
+* This hackathon challenge is exciting and interesting and there are a lot many things to learn. It is to send a video stream between server and client using aiortc library of TCPsocketSignalling.
 
 
 * In this repo I have created communication between server and client while multiprocessing with a queue. Generate 2D image frames of ball bouncing. Create a separate multi-processsing process_a.
